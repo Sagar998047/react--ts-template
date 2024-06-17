@@ -32,8 +32,7 @@ Or,
 1. Clone the repository
 
 ```bash
-git clone https://github.com/divshekhar/react-typescript-template.git
-```
+git clone https://github.com/Sagar998047/react--ts-template.git
 
 2. Install the dependencies
 
@@ -77,4 +76,4 @@ This project is licensed under the ISC License.
 
 ## Acknowledgements
 
-Thank you for using this template. I hope it helps you build your next project with ease.
+Thank you for using this template. 
